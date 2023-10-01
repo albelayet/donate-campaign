@@ -1,0 +1,134 @@
+[
+    {
+        "ID": 1,
+        "Picture": "https://i.ibb.co/DVsy0FG/Clothing.png",
+        "Title": "Clothing Drive",
+        "Category": "Clothing",
+        "CategoryBgColor": "#FF5733", 
+        "CardBgColor": "#F4A460",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+        "Price": 25
+    },
+    {
+        "ID": 2,
+        "Picture": "https://i.ibb.co/NmQnS1q/Education.png",
+        "Title": "Education for All",
+        "Category": "Education",
+        "CategoryBgColor": "#2196F3", 
+        "CardBgColor": "#BBDEFB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Give the gift of education to children who need it most.",
+        "Price": 30
+    },
+    {
+        "ID": 3,
+        "Picture": "https://i.ibb.co/nkHmCpb/Food.png",
+        "Title": "Food Drive",
+        "Category": "Food",
+        "CategoryBgColor": "#4CAF50", 
+        "CardBgColor": "#B2DFDB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+        "Price": 25
+    },
+    {
+        "ID": 4,
+        "Picture": "https://i.ibb.co/tL1sV1f/Health.png",
+        "Title": "Healthcare Support",
+        "Category": "Health",
+        "CategoryBgColor": "#FF5733", 
+        "CardBgColor": "#F4A460",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+        "Price": 50
+    },
+    {
+        "ID": 5,
+        "Picture": "https://i.ibb.co/DVsy0FG/Clothing.png",
+        "Title": "Warm Clothing Drive",
+        "Category": "Clothing",
+        "CategoryBgColor": "#FF5733", 
+        "CardBgColor": "#BBDEFB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Donate warm clothing for the winter season.",
+        "Price": 20
+    },
+    {
+        "ID": 6,
+        "Picture": "https://i.ibb.co/NmQnS1q/Education.png",
+        "Title": "Scholarship Fund",
+        "Category": "Education",
+        "CategoryBgColor": "#2196F3", 
+        "CardBgColor": "#B2DFDB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Support scholarships for deserving students.",
+        "Price": 35
+    },
+    {
+        "ID": 7,
+        "Picture": "https://i.ibb.co/nkHmCpb/Food.png",
+        "Title": "Community Kitchen",
+        "Category": "Food",
+        "CategoryBgColor": "#4CAF50", 
+        "CardBgColor": "#F4A460",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Support our community kitchen providing meals to the homeless.",
+        "Price": 15
+    },
+    {
+        "ID": 8,
+        "Picture": "https://i.ibb.co/tL1sV1f/Health.png",
+        "Title": "Medical Outreach",
+        "Category": "Health",
+        "CategoryBgColor": "#FF5733", 
+        "CardBgColor": "#BBDEFB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Support our mobile clinics providing healthcare to remote areas.",
+        "Price": 40
+    },
+    {
+        "ID": 9,
+        "Picture": "https://i.ibb.co/DVsy0FG/Clothing.png",
+        "Title": "Emergency Clothing",
+        "Category": "Clothing",
+        "CategoryBgColor": "#FF5733", 
+        "CardBgColor": "#B2DFDB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Provide clothing for disaster-affected communities.",
+        "Price": 30
+    },
+    {
+        "ID": 10,
+        "Picture": "https://i.ibb.co/NmQnS1q/Education.png",
+        "Title": "Digital Education",
+        "Category": "Education",
+        "CategoryBgColor": "#2196F3", 
+        "CardBgColor": "#F4A460",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Support digital education initiatives for students.",
+        "Price": 25
+    },
+    {
+        "ID": 11,
+        "Picture": "https://i.ibb.co/nkHmCpb/Food.png",
+        "Title": "Children's Nutrition",
+        "Category": "Food",
+        "CategoryBgColor": "#4CAF50", 
+        "CardBgColor": "#BBDEFB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Ensure children have access to nutritious meals.",
+        "Price": 20
+    },
+    {
+        "ID": 12,
+        "Picture": "https://i.ibb.co/tL1sV1f/Health.png",
+        "Title": "Maternal Health",
+        "Category": "Health",
+        "CategoryBgColor": "#FF5733", 
+        "CardBgColor": "#B2DFDB",
+        "TextButtonBgColor": "#FFFFFF",
+        "Description": "Support maternal healthcare initiatives.",
+        "Price": 45
+    }
+]
